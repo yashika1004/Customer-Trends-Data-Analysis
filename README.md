@@ -60,7 +60,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    
       - Build presentation deck using Gamma AI
 
-##📊 Key Learning Outcomes
+📊 Key Learning Outcomes
 
 Through this project, I gained practical experience in:
 
