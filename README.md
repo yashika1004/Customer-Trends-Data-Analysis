@@ -59,16 +59,24 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
    
       - Build presentation deck using Gamma AI
+
+##📊 Key Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Data cleaning and preprocessing using Python.
+
+- Exploratory Data Analysis (EDA).
+
+- Data manipulation using Pandas and NumPy.
+
+- SQL queries for solving real-world business problems.
+
+- Database integration using SQLAlchemy.
+
+- Customer segmentation and purchasing behavior analysis.
+
+- Data visualization and dashboard development using Power BI.
+
+- Converting raw data into meaningful business insights.
   
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
-
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
